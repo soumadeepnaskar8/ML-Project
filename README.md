@@ -608,7 +608,7 @@ Be honest about these in your report:
 
 ## 🙋 Author
 
-**Your Name** Soumadeep Naskar
+**Soumadeep Naskar** 
 Brainware University
 
 ---
